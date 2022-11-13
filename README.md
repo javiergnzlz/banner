@@ -1,6 +1,8 @@
 # banner
 Muestra un mensaje de texto desplazandose por la pantalla. Para VIC20 o PET 40 columnas con BASIC 2/4
 
+Mirar la imagen banpet.gif para ver el funcionamiento
+
 Es un programa representativo de lo que son las máquinas de Commodore que he subido con una intención algo didáctica. Sin embargo considero que no es lo suficientemente sencillo para ser introductorio
 
 El documento "banner bas pdf" explica cómo funciona este programa, o sea, describe:
