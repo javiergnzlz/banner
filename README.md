@@ -5,6 +5,8 @@ Mirar la imagen banpet.gif para ver el funcionamiento
 
 Es un programa representativo de lo que son las máquinas de Commodore que he subido con una intención algo didáctica. Sin embargo considero que no es lo suficientemente sencillo para ser introductorio
 
+Para cambiar el factor de ampliación horizontal de los caracteres pulsar las teclas 1,2,3 o 4. Para cambiar el factor de ampliación vertical de los caracteres pulsar las teclas A,B,C,D,E.
+
 El documento "banner bas pdf" explica cómo funciona este programa, o sea, describe:
 - El proceso para formar caracteres de texto ampliados a partir de los de 16 caracteres del juego de caracteres PETSCII que están formados por cuadraditos de 4x4 pixels.
 - El proceso para hacer "scroll" de derecha a izquierda, del mensaje de texto ampliado
