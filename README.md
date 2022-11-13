@@ -14,3 +14,5 @@ El documento "banner bas pdf" explica cómo funciona este programa, o sea, descr
 Hay dos carpetas, banpet para PET y banvic para VIC20. Cada una contiene una imagen de disco d64 preparada para ser ejecutada en emulador o volcada a disquetera o emulador de disquetera. 
 
 También contiene una carpeta con los los listados BASIC y en ensamblador con sintaxis cbmprg y otra carpeta con los archivos binarios del programa principal, del programa en lenguaje de máquina que es cargado por el programa anterior, y de los juegos de caracteres mayúscula/minúsculas y mayúsculas/gráficos.
+
+Los ficheros de los juegos de caracteres son idénticos para VIC20 y PET40COL excepto por la dirección por defecto de carga.
